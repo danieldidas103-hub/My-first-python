@@ -1,13 +1,14 @@
 # My-first-python 🐍
 **Safari yangu ya kwanza ya Python - Kuelekea UDSM 2026**
 
-Hii repo ina project zangu za kwanza za Python nilizojifunza mwenyewe.
+Hii repo ina project zangu za kwanza za Python.
 
 ## Projects Ndani 👑
-1.  **calculator.py** - Calculator rahisi yenye +, -, *, / na kinga ya kugawa na 0.
+1.  **bmi_calculator.py** - BMI Calculator. Ina-calculate BMI na kutoa category: underweight, healthy, overweight, obese.
+2.  **calculator.py** - Calculator rahisi ya jumla, tofa, zidisha, gawanya.
 
 ## Nimejifunza Nini?
-`if / elif / else`, `input()`, `float()`, `Error Handling`
+`if / elif / else`, `input()`, `float()`, Math.
 
 ---
 *Built by Daniel | Mfalme wa Code*
